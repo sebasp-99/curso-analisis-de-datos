@@ -8,3 +8,9 @@ df = pd.DataFrame({
 print(df)
 
 print("\nInformación del DataFrame:")
+print("\nInformación del DataFrame:")
+print("\nInformación del DataFrame:")
+print("\nInformación del DataFrame:")
+print("\nInformación del DataFrame:")
+print("\nInformación del DataFrame:")
+print("\nInformación del DataFrame:")
